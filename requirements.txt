@@ -1,0 +1,8 @@
+Flask
+gunicorn
+opencv-python
+numpy
+tensorflow
+keras
+matplotlib
+chart.js
